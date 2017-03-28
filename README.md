@@ -1,7 +1,7 @@
 # Rails API Backend & React Frontend
 
 1. Ruby version
-⋅⋅* 2.3.3
+  * 2.3.3
 
 2. System dependencies
 
