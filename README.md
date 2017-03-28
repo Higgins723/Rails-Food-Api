@@ -3,18 +3,9 @@
 * Ruby version
   * 2.3.3
 
-2. System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* System dependencies
+  * Rails
+  * Ruby
+  * PostgreSQL (9.4.11)
+  * React
+    * Create React App (https://github.com/facebookincubator/create-react-app)
