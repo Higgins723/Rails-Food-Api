@@ -3,7 +3,7 @@
 1. Ruby version
 ⋅⋅* 2.3.3
 
-* System dependencies
+2. System dependencies
 
 * Configuration
 
